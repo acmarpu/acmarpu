@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashoka Chakravarti Marpu
 - 👀 I’m interested in Azure DevOps
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on DevOps ad ML
+- 🌱 I’m currently learning Data Engineering
+- 💞️ I’m looking to collaborate on DevOps and Data Engineering
 - 📫 How to reach me http://www.linkedin.com/in/acmarpu
 
 <!---
