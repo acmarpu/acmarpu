@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @acmarpu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Ashoka Chakravarti Marpu
+- 👀 I’m interested in Azure DevOps
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on DevOps ad ML
+- 📫 How to reach me http://www.linkedin.com/in/acmarpu
 
 <!---
 acmarpu/acmarpu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
