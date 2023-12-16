@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashoka Chakravarti Marpu
-- 👀 working as a SR. TECH SPECIALIST, APPLICATION DESIGN
+- 👀 working as a Sr. Tech Cloud Specialist
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on DevOps and Data Engineering
 - 📫 How to reach me http://www.linkedin.com/in/acmarpu
