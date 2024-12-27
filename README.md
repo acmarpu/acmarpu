@@ -1,9 +1,8 @@
 
-
-- 👋 Hi, I’m @Ashoka Chakravarti Marpu
-- 👀 Working as a Sr. Tech Cloud Specialist
-- 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking to collaborate on DevOps and Data Engineering
+#  👋 Hi, I’m @Ashoka Chakravarti Marpu
+- 👀 I’m a Sr. Tech Cloud Specialist
+- 🌱 I’m currently learning GenAI
+- 💞️ I’m looking to collaborate on DevOps and GenAI projects
 - 📫 How to reach me acmarpu@gmail.com
 - ![image](https://github.com/user-attachments/assets/6c0eb187-569a-48dc-8029-9199b11680c3) http://www.linkedin.com/in/acmarpu
 <!---
