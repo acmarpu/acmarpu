@@ -1,5 +1,5 @@
 
-#  👋 Hi, I’m @Ashoka Chakravarti Marpu
+#  👋 Hi,  I’m Ashoka Chakravarti Marpu
 - 👀 I’m a Sr. Tech Cloud Specialist
 - 🌱 I’m currently learning GenAI
 - 💞️ I’m looking to collaborate on DevOps and GenAI projects
