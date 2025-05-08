@@ -15,7 +15,7 @@
 
 Here are some useful links I created to help with learning and understanding Azure and DevOps technologies:
 
-- <img src="https://img.icons8.com/color/20/000000/azure-1.png" alt="Azure Icon" /> [Azure Cloud Documentation](https://github.com/acmarpu/01-Azure-Document)  
-- 🧰 [Git and DevOps Resources](https://github.com/acmarpu/02-Git)
+- <img src="https://img.icons8.com/color/20/000000/azure-1.png" alt="Azure Icon" />  [Azure Cloud Documentation](https://github.com/acmarpu/01-Azure-Document)  
+- <img src="https://img.icons8.com/color/20/000000/git.png" alt="Git Icon" />  [Git and DevOps Resources](https://github.com/acmarpu/02-Git)
 
 Thank you for visiting my profile!
