@@ -1,15 +1,14 @@
-# 👋 Hi, I’m Ashoka Chakravarti Marpu
+####👋 Hi, I’m Ashoka Chakravarti Marpu
 
-🌟 **I’m a Sr. Tech Cloud Specialist**  
-🚀 Passionate about Azure Cloud, DevOps, and Generative AI  
+🌟 I’m a Sr. Tech Cloud Specialist
+🚀 Passionate about Azure Cloud, DevOps, and Generative AI
 
-#### 👀 What I’m Up To
-- 🧠 Currently learning **Generative AI (GenAI)**
-- 💼 Actively seeking collaboration opportunities in **Azure Cloud**, **DevOps**, and **GenAI**
-
-#### 📫 How to Reach Me
-- 📧 Email: [acmarpu@gmail.com]
-- 💼 LinkedIn: [http://www.linkedin.com/in/acmarpu]
+####👀 What I’m Up To**
+🧠 Currently learning Generative AI
+💼 Actively seeking collaboration opportunities in Azure Cloud, DevOps, and Generative AI
+📫 How to Reach Me
+📧 Email: [acmarpu@gmail.com]
+💼 LinkedIn: [http://www.linkedin.com/in/acmarpu]
 
 #### 📚 Learning Resources
 
