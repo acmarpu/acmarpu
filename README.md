@@ -18,6 +18,6 @@ Here are some useful links I created to help with learning and understanding Azu
 - <img src="https://img.icons8.com/color/20/000000/azure-1.png" alt="Azure Icon" />  [Azure Cloud Documentation](https://github.com/acmarpu/01-Azure-Document)  
 - <img src="https://img.icons8.com/color/20/000000/git.png" alt="Git Icon" />  [Git and DevOps Resources](https://github.com/acmarpu/02-Git)
 - <img src="https://img.icons8.com/color/20/000000/terraform.png" alt="Terraform Icon" /> [https://github.com/acmarpu/03-terraform-on-azure](https://github.com/acmarpu/03-terraform-on-azure.git)
-- <img src="https://img.icons8.com/color/20/azure-devops.png" alt="Azure DevOps Icon" /> [Azure DevOps Resources](https://github.com/acmarpu/04-Azure-DevOps)](https://github.com/acmarpu/04-azure-devops-pipelines-docs.git)
+- <img src="https://img.icons8.com/color/20/azure-devops.png" alt="Azure DevOps Icon" /> [Azure DevOps Resources](https://github.com/acmarpu/04-Azure-DevOps)]
   
 * Thank you for visiting my profile!
