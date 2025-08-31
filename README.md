@@ -5,7 +5,7 @@
 
 #### 👀 What I’m Up To**
 * 🧠 Currently learning Generative AI
-* 💼 Actively seeking collaboration opportunities in Azure Cloud, DevOps, and Generative AI
+* 💼 Focused on mastering Generative AI and MLOps, and eager to collaborate on Azure Cloud, DevOps, and AI initiatives.
   
 #### 📫 How to Reach Me
 * 📧 Email: [acmarpu@gmail.com]
