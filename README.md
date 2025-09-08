@@ -18,9 +18,11 @@ Here are some useful links I created to help with learning and understanding Azu
 - <img src="https://img.icons8.com/color/20/000000/azure-1.png" alt="Azure Icon" />  (https://github.com/acmarpu/01-Azure-Document)  
 - <img src="https://img.icons8.com/color/20/000000/git.png" alt="Git Icon" />  (https://github.com/acmarpu/02-Git)  
 - <img src="https://img.icons8.com/color/20/000000/terraform.png" alt="Terraform Icon" />  (https://github.com/acmarpu/03-terraform-on-azure)  
-- <img src="https://www.svgrepo.com/show/448271/azure-devops-logo.svg" alt="Azure DevOps Icon" width="20" />  [Azure DevOps Docs](https://github.com/acmarpu/04-azure-devops-pipelines-docs)
-- <img src="https://img.icons8.com/color/20/azure-devops.png" alt="Azure DevOps Icon" /> [Azure DevOps Docs](https://github.com/acmarpu/04-azure-devops-pipelines-docs)
-- <img src="https://share.google/images/zvUR36EhuQDUxtUeG" alt="Azure DevOps Icon" /> [Azure DevOps Docs](https://github.com/acmarpu/04-azure-devops-pipelines-docs)
+- <img src="https://img.icons8.com/color/20/azure-1.png" alt="Azure Icon" /> [Azure Docs](https://github.com/acmarpu/01-Azure-Document)  
+- <img src="https://img.icons8.com/color/20/git.png" alt="Git Icon" /> [Git Docs](https://github.com/acmarpu/02-Git)  
+- <img src="https://img.icons8.com/color/20/terraform.png" alt="Terraform Icon" /> [Terraform Docs](https://github.com/acmarpu/03-terraform-on-azure)  
+- <img src="https://img.icons8.com/fluency/20/azure-devops.png" alt="Azure DevOps Icon" /> [Azure DevOps Docs](https://github.com/acmarpu/04-azure-devops-pipelines-docs)  
+
 
 
 
