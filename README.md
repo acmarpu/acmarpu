@@ -1,30 +1,46 @@
-#### 👋 Hi, I’m Ashoka Chakravarti Marpu
+# 👋 Hi, I'm Ashoka Chakravarti Marpu
 
-* 🌟 I’m a Sr. Tech Cloud Specialist
-* 🚀 Passionate about Azure Cloud, DevOps, and Gen AI , MLOps
+<p align="left">
+  <img src="https://shields.io" alt="Role">
+  <img src="https://shields.io" alt="Focus">
+</p>
 
-#### 👀 What I’m Up To**
-* 🧠 Currently learning Generative AI
-* 💼 Focused on mastering Generative AI and MLOps, and eager to collaborate on Azure Cloud, DevOps, and AI initiatives.
-  
-#### 📫 How to Reach Me
-* 📧 Email: [acmarpu@gmail.com]
-* 💼 LinkedIn: [http://www.linkedin.com/in/acmarpu]
+Passionate about architecting scalable systems on **Azure Cloud**, optimizing pipelines via **DevOps**, and exploring the frontiers of **Generative AI** and **AIOps**. I build open-source tools and structured resources to help engineers bridge the gap between core programming and enterprise cloud automation.
 
-#### 📚 Learning Resources
+---
 
-Here are some useful links I created to help with learning and understanding Azure and DevOps technologies:
+### 🧠 What I'm Up To
+* 🚀 **Currently Deep Diving:** Advanced Generative AI engineering and automated orchestration using AIOps frameworks.
+* 💼 **Professional Focus:** Eager to collaborate on complex Azure Cloud infrastructure, advanced CI/CD DevOps workflows, and enterprise AI automation initiatives.
 
+---
 
-- <img src="https://img.icons8.com/color/20/azure-1.png" alt="Azure Icon" /> [Azure Docs](https://github.com/acmarpu/01-Azure-Document)  
-- <img src="https://img.icons8.com/color/20/git.png" alt="Git Icon" /> [Git Docs](https://github.com/acmarpu/02-Git)  
-- <img src="https://img.icons8.com/color/20/terraform.png" alt="Terraform Icon" /> [Terraform Docs](https://github.com/acmarpu/03-terraform-on-azure)  
-- <img src="https://img.icons8.com/fluency/20/azure-devops.png" alt="Azure DevOps Icon" /> [Azure DevOps Docs](https://github.com/acmarpu/04-azure-devops-pipelines-docs)  
+### 📚 My Learning Hub & Open-Source Projects
+Here are the hands-on tracking guides and repositories I design to help engineers master cloud technologies:
 
+* 🐍 **[ultimate-python-notebooks](https://github.com)** — *The Ultimate Python Notebooks Collection:* An interactive, Jupyter-based learning handbook covering core programming up through Cloud Automation and workshops.
+* ☁️ **Azure Guides** — *(Link your specific Azure repos/notes here)*
+* ♾️ **DevOps Playbooks** — *(Link your specific DevOps repos/notes here)*
 
+---
 
+### 🛠️ Tech Stack & Ecosystem
+<p align="left">
+  <img src="https://shields.io" alt="Azure">
+  <img src="https://shields.io" alt="Python">
+  <img src="https://shields.io" alt="Docker">
+  <img src="https://shields.io" alt="Kubernetes">
+  <img src="https://shields.io" alt="Git">
+  <img src="https://shields.io" alt="GitHub">
+</p>
 
+---
 
+### 📫 Let's Connect!
+Feel free to reach out for collaborations, technical discussions, or just to chat about the future of cloud and AI:
 
+* 📧 **Email:** [acmarpu@gmail.com](mailto:acmarpu@gmail.com) [1]
+* 💼 **LinkedIn:** [linkedin.com/in/acmarpu](http://www.linkedin.com/in/acmarpu) [1]
 
-*Thank you for visiting my profile!*
+---
+<p align="center">Thank you for visiting my profile! Let's build something automated together. 🚀</p>
