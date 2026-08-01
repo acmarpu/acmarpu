@@ -5,6 +5,7 @@
   <img src="https://shields.io" alt="Focus">
 </p>
 
+
 Passionate about architecting scalable systems on **Azure Cloud**, optimizing pipelines via **DevOps**, and exploring the frontiers of **Generative AI** and **AIOps**. I build open-source tools and structured resources to help engineers bridge the gap between core programming and enterprise cloud automation.
 
 ---
