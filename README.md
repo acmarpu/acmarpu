@@ -1,11 +1,5 @@
 # 👋 Hi, I'm Ashoka Chakravarti Marpu
 
-<p align="left">
-  <img src="https://shields.io" alt="Role">
-  <img src="https://shields.io" alt="Focus">
-</p>
-
-
 Passionate about architecting scalable systems on **Azure Cloud**, optimizing pipelines via **DevOps**, and exploring the frontiers of **Generative AI** and **AIOps**. I build open-source tools and structured resources to help engineers bridge the gap between core programming and enterprise cloud automation.
 
 ---
@@ -19,7 +13,7 @@ Passionate about architecting scalable systems on **Azure Cloud**, optimizing pi
 ### 📚 My Learning Hub & Open-Source Projects
 Here are the hands-on tracking guides and repositories I design to help engineers master cloud technologies:
 
-* 🐍 **[ultimate-python-notebooks](https://github.com)** — *The Ultimate Python Notebooks Collection:* An interactive, Jupyter-based learning handbook covering core programming up through Cloud Automation and workshops.
+* 🐍 **[ultimate-python-notebooks](https://github.com)** — * Interactive Jupyter templates for core programming, cloud automation, and workshops..
 * ☁️ **Azure Guides** — *(Link your specific Azure repos/notes here)*
 * ♾️ **DevOps Playbooks** — *(Link your specific DevOps repos/notes here)*
 
