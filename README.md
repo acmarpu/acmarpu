@@ -17,20 +17,6 @@ Here are the hands-on tracking guides and repositories I design to help engineer
 * ☁️ **Azure Guides** — *(Link your specific Azure repos/notes here)*
 * ♾️ **DevOps Playbooks** — *(Link your specific DevOps repos/notes here)*
 
----
-
-### 🛠️ Tech Stack & Ecosystem
-<p align="left">
-  <img src="https://shields.io" alt="Azure">
-  <img src="https://shields.io" alt="Python">
-  <img src="https://shields.io" alt="Docker">
-  <img src="https://shields.io" alt="Kubernetes">
-  <img src="https://shields.io" alt="Git">
-  <img src="https://shields.io" alt="GitHub">
-</p>
-
----
-
 ### 📫 Let's Connect!
 Feel free to reach out for collaborations, technical discussions, or just to chat about the future of cloud and AI:
 
