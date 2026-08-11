@@ -13,7 +13,7 @@ Passionate about architecting scalable systems on **Azure Cloud**, optimizing pi
 ### 📚 My Learning Hub & Open-Source Projects
 Here are the hands-on tracking guides and repositories I design to help engineers master cloud technologies:
 
-* 🐍 **[Python-Ultimate-Notebooks](https://github.com/acmarpu/python-ultimate-notebooks)** — *Interactive Jupyter templates for core programming, cloud automation, and workshops.*
+* 🐍 **[Python-Basic-Advanced](https://github.com/acmarpu/python4all)** — *Interactive Jupyter templates for core programming, cloud automation, and workshops.*
 * 🔷 **[Azure-Zero-to-Hero](https://github.com/acmarpu/azure-zero-to-hero.git)** - *A clear roadmap and simple guides to learn core Azure concepts with step-by-step hands-on labs.*
 * 🤖 **[Generative-AI-Playbook](https://github.com/acmarpu/generative-ai-playbook)** - *Practical engineering guides, LangChain/LangGraph orchestration, tokens management, and agentic AI architectures.* 
 
