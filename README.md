@@ -14,7 +14,7 @@ Passionate about architecting scalable systems on **Azure Cloud**, optimizing pi
 Here are the hands-on tracking guides and repositories I design to help engineers master cloud technologies:
 
 * 🔷 **[Azure-Zero-to-Hero](https://github.com/acmarpu/azure-zero-to-hero)** - *A clear roadmap and simple guides to learn core Azure concepts with step-by-step hands-on labs.*
-* 🐍 **[Python-For-All](https://github.com/acmarpu/python-for-alll)** — *Interactive Jupyter templates for core programming, cloud automation, and workshops.*
+* 🐍 **[Python-Made-Easy](https://github.com/acmarpu/python-made-easy)** — *Interactive Jupyter templates for core programming, cloud automation, and workshops.*
 * 🤖 **[GenAi-Made-Easy](https://github.com/acmarpu/GenAi-Made-Easy)** - *Practical engineering guides, LangChain/LangGraph orchestration, tokens management, and agentic AI architectures.* 
 
 ### 📫 Let's Connect!
