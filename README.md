@@ -20,8 +20,8 @@ Here are the hands-on tracking guides and repositories I design to help engineer
 ### 📫 Let's Connect!
 Feel free to reach out for collaborations, technical discussions, or just to chat about the future of cloud and AI:
 
-* 📧 **Email:** [acmarpu@gmail.com](mailto:acmarpu@gmail.com) [1]
-* 💼 **LinkedIn:** [linkedin.com/in/acmarpu](http://www.linkedin.com/in/acmarpu) [1]
+* 📧 **Email:** [acmarpu@gmail.com](mailto:acmarpu@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/acmarpu](http://www.linkedin.com/in/acmarpu)
 
 ---
 <p align="center">Thank you for visiting my profile! Let's build something automated together. 🚀</p>
